@@ -1,0 +1,37 @@
+body
+{
+  color: white;
+  background: #c0d3ff;
+}
+span
+{
+  font-size: 30px;
+}
+#webcam , #result
+{
+  border: 2px dashed black;
+  width: 300px;
+  height: 250px; 
+}
+#resultEmotionName ,#resultEmotionName2 
+{
+  color: black;
+}
+.emotionName
+{
+  font-size: 40px;
+}
+.emoji
+{
+  font-size:48px;
+}
+.header{
+  border-radius: 20px;
+  letter-spacing: 3px;
+  font-size: 15px;
+}
+#btnCapturar, #btnVerificar{
+  background-color: #9eb3e2;
+  border-radius: 9px;
+  font-size: 16px;
+}
